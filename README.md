@@ -1,17 +1,12 @@
-### Hi there 👋
+<!--START_SECTION:waka-->
+```text
+JSX          16 hrs 55 mins  ███████████████████████▒░   93.93 % 
+HTML         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JavaScript   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+```
+<!--END_SECTION:waka-->
 
-<!--
-**androlua/androlua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
