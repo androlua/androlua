@@ -1,8 +1,9 @@
 ### Androlua+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center">
+
 ![Androlua](http://github-readme-streak-stats.herokuapp.com?user=Androlua&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+<p align="right">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
