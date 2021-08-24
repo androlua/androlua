@@ -21,7 +21,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 [![Androlua](http://github-readme-streak-stats.herokuapp.com?user=Androlua&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-|Androlua+|11111|222222|2222222|
+|Androlua+|<img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />|222222|2222222|
 |---|---|---|---|
 |作者:|[nirenr](https://www.github.com/nirenr)|QQ:|946049229|
 <br />
