@@ -8,9 +8,9 @@
 </p>  
 
 
-|Androlua+|![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)|当前版本:|5.0.16|                                                                             |
+|Androlua+|![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)|当前版本:|5.0.16|---------------------------------------------------------------------------------|
 |---|---|---|---|---|
-|作者:|[nirenr](https://www.github.com/nirenr)|QQ:|946049229|                                                                             |
+|作者:|[nirenr](https://www.github.com/nirenr)|QQ:|946049229|---------------------------------------------------------------------------------|
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
