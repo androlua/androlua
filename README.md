@@ -1,11 +1,10 @@
 ### Androlua+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-![Androlua](http://github-readme-streak-stats.herokuapp.com?user=Androlua&theme=radical&hide_border=true)
-
 
 <p align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Androlua&theme=radical&hide_border=true"  width="500">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>  
 
 <p align="right">
