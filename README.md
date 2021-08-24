@@ -7,11 +7,6 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>  
 
-<p align="right">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
-
-
 
 |Androlua+|![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)|当前版本:|5.0.16|
 |---|---|---|---|
