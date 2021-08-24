@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 
-|Androlua+|![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)|222222|2222222|
+|Androlua+|![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)|当前版本:|5.0.16|
 |---|---|---|---|
 |作者:|[nirenr](https://www.github.com/nirenr)|QQ:|946049229|
 <br />
