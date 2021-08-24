@@ -42,7 +42,6 @@ C++          15 分         ▒░░░░░░░░░░░░░░░░�
 
 如果你喜欢我做的事，也许考虑买咖啡/茶给我吧。 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **我的统计数据:**
 <!-- TODO-IST:START -->
