@@ -21,7 +21,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 
-|Androlua+|[![Androlua](http://github-readme-streak-stats.herokuapp.com?user=Androlua&theme=radical&hide_border=true)](https://git.io/streak-stats)|2222222|
+|Androlua+|11111|222222|2222222|
 |---|---|---|---|
 |作者|nirenr|QQ|946049229|
 <br />
