@@ -20,11 +20,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-[![Androlua](http://github-readme-streak-stats.herokuapp.com?user=Androlua&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-|作者|nirenr|111111|2222222|
+|Androlua+|[![Androlua](http://github-readme-streak-stats.herokuapp.com?user=Androlua&theme=radical&hide_border=true)](https://git.io/streak-stats)|2222222|
 |---|---|---|---|
-|QQ|946049229|2132131|05454|
+|作者|nirenr|QQ|946049229|
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
