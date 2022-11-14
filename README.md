@@ -8,7 +8,7 @@
 </p>  
 
 
-|Androlua+|![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)|当前版本:|5.0.21|---------------------------------------------------------------------------|
+|Androlua+|![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)|当前版本:|5.0.21|[下载地址]([https://www.github.com/nirenr](https://pan.baidu.com/s/1WYVj1rJHUDhMOQXvGRPQpw?pwd=rga4))|
 |---|---|---|---|---|
 |作者:|[nirenr](https://www.github.com/nirenr)|QQ:|946049229|---------------------------------------------------------------------------|
 <br />
